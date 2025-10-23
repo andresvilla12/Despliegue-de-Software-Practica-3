@@ -3,13 +3,13 @@ Esta práctica tiene como objetivo que aprendamos a publicar aplicaciones web en
 
 # INTEGRANTES DEL GRUPO:
 
-Alejandra Carvajal Campo
+1- Alejandra Carvajal Campo
 
-Simon Alejandro Vanegas Ramirez
+2- Simon Alejandro Vanegas Ramirez
 
-Luisa Fernanda Quiroz Garcia
+3- Luisa Fernanda Quiroz Garcia
 
-Andrés Felipe Villa Calderón
+4- Andrés Felipe Villa Calderón
 
 Enlace del video en Youtube:
 
