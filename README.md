@@ -15,7 +15,7 @@ Enlace del video en Youtube:
 
 # PARTE 1
 
-youtube.com/watch?v=8Q-6gZwC0tQ&feature=youtu.be
+[youtube.com/watch?v=8Q-6gZwC0tQ&feature=youtu.be](https://youtu.be/8Q-6gZwC0tQ)
 
 # PARTE 2
 
